@@ -23,8 +23,8 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ###### LINE Bot: Channel name : dbform  
 #  SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '-l((d#@4%8g2b*%7o4unv0nuw88v*2&=7yyc#8tjtf5vwcqea-'
-LINE_CHANNEL_ACCESS_TOKEN = 'Rx+WOkHrAIsyDgHoE0lQPywKRCicple9CzJ6ON4pteG8xuXkKS+EtHE+2UANS35rfGFvfQM8L8/6RqCx/sTORTlf2uAn0h+c5hW1UkrDqRXQhVqXiMtWDIMweL1kH1b9TnmAUmcC7BvxDMfLBcGHZgdB04t89/1O/w1cDnyilFU='
-LINE_CHANNEL_SECRET = '7a991b60a1de2f6dd3dc3900910372b2'
+LINE_CHANNEL_ACCESS_TOKEN = '1xmdIiuvWoLwniQEekVrOwVhISJb6YsIJ4F7OWU36dcYkg8qDK53700MF09d7OD3m7sOAVBLhugO6ghtu4LgA7+IugdUIi/R4lr/3l9DI9fjUL51LiudKOp6yhEnBnX9o892fBbnHf1G1YBzY1iKLQdB04t89/1O/w1cDnyilFU='
+LINE_CHANNEL_SECRET = 'c740d18922c5eccb432123438a922260'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
